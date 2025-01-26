@@ -1,0 +1,132 @@
+[
+  {
+    "email_address": "annasmith@gmail.com",
+    "account_number": "000335",
+    "secure_password": "$2b$12$ZgonHDut9VGh0njTuCbFuOvanT/3RMKVk4UxwB1FLq4bibI1MiHvW",
+    "insecure_password": "password123",
+    "name": "Anna",
+    "surname": "Smith",
+    "address": {
+      "line1": "60 Acorn Place",
+      "line2": "",
+      "postcode": "NW85BN"
+    },
+    "phone_number": "07562074907",
+    "orders": [
+      "0000001",
+      "0000003"
+    ]
+  },
+  {
+    "email_address": "georgephil@gmail.com",
+    "account_number": "000298",
+    "secure_password": "$2b$12$IqsSkneL/2m9e5wLQZG4SultWuGN6irupNqXEy096sPhVMYiCAIW.",
+    "insecure_password": "qwerty7",
+    "name": "George",
+    "surname": "Phil",
+    "address": {
+      "line1": "123 Lambeth Close",
+      "line2": "",
+      "postcode": "BE9 2GH"
+    },
+    "phone_number": "077767891230",
+    "orders": [
+      "0000002"
+    ]
+  },
+  {
+    "email_address": "johnmccaulley@gmail.com",
+    "account_number": "000179",
+    "secure_password": "$2b$12$6jvVPuvjGV5YVKfDanZ8wup0n.8Pw8UzIIhtO62za9u5A6joc.B8G",
+    "insecure_password": "GoEat59!",
+    "name": "John",
+    "surname": "McCaulley",
+    "address": {
+      "line1": "Flat 383",
+      "line2": "Hickes House",
+      "postcode": "KT2 9JQ"
+    },
+    "phone_number": "07590251678",
+    "orders": []
+  },
+  {
+    "email_address": "ghhhh@gmail.com",
+    "account_number": "000336",
+    "secure_password": "$2b$12$lEUlF89zH2SUU/yIJ55eHe7i.OTLbL667ix.P7pAb9QzJ6WmOjDKu",
+    "insecure_password": "",
+    "name": "Anda",
+    "surname": "Panda",
+    "address": {
+      "line1": "Flat 5",
+      "line2": "8 Floral Street",
+      "postcode": "SE1 4RN"
+    },
+    "phone": "07876326174",
+    "role": "",
+    "jwt": ""
+  },
+  {
+    "email_address": "blerm@gmail.com",
+    "account_number": "000337",
+    "secure_password": "$2b$12$Mrd704J7.EYOA7GQu.qoueM5fpgmKDJUNxlVEjYGDkKT4WLK914RO",
+    "insecure_password": "",
+    "name": "Tree",
+    "surname": "Jimenez",
+    "address": {
+      "line1": "Apt. 4",
+      "line2": "900 NY Blvd",
+      "postcode": "7484I 03030"
+    },
+    "phone": "659302 09558583",
+    "role": "",
+    "jwt": ""
+  },
+  {
+    "email_address": "reeeee@gmail.com",
+    "account_number": 338,
+    "secure_password": "$2b$12$D/m8zNrlo5LsqyqTo6vJb.Xb5pWSeEfQJzJQ9iqCBcBMfbHDoZBEy",
+    "insecure_password": "",
+    "name": "gAAAAABnjYwdTt3yY0XdBxbzlQxtPoTgReBenlLtenEOIpLWkOpwuTEADTz7-N0enznW-P1rCgNpcFKVw6wHY_yKzctu5ySugA==",
+    "surname": "gAAAAABnjYwgQJEUvWISEMse0F90CDeAN5krdQCa9VIRW1ivaHMiwYXQG_h_tnMvyw7mTKBuZhLsOxElGUh-UR0nTbZQ_Jp53Q==",
+    "address": {
+      "line1": "gAAAAABnjYwk20Mj33u5usHVT9-f_GaE5BL5tkDn3QQFTCe1UJR9PqkyFrKxMiRJ6CNaevydiRnGX_iKiYGqbMNYEsVbWNKQrA==",
+      "line2": "gAAAAABnjYwmJSePC394UKZN_pUtqsWhqAwI517Ew2FFjh8YWokg6sHEysAFcJWZclKGpIcHktICZzaz3tTuxJHQ2KFSThNXvQ==",
+      "postcode": "gAAAAABnjYwstep2EMUVnN-5mtpyCooNkTmkVxLlueAzx6SAf57z5M8WJL-o8KnvaK6Vzgk-Mxgyk-gvkI-eHRKcPExQCIcIfw=="
+    },
+    "phone": "gAAAAABnjYwwyOI0TjIDv5mO6pjiNXUVMg63dAnEEX0iP4NCUt9SJnRJwH6TEWW8dnQAPDDxqIDXfP-nR7x5OU6UMWNaceB2Zg==",
+    "role": "user",
+    "jwt": ""
+  },
+  {
+    "email_address": "reeeeef@gmail.com",
+    "account_number": 339,
+    "secure_password": "$2b$12$V1DtH9yfA1/4kfDVCx8rBeRUzpJqRnr0cxC.H8VGpmcN9kbBePQz6",
+    "insecure_password": "",
+    "name": "gAAAAABnjYyWEIN07OUcvp2bWcxe9W-HeiRgB4jwDQ0gYvqX7mDjXEVA2JUrbQGT_hFHysOgdDSDhTodCNfo_qCiWp0O-pp0yA==",
+    "surname": "gAAAAABnjYyYveciK8AlhKURGRZOgo1VcZFJVtKqoxJi2azL6agKdsbH3ZAajndlGMbzT9woFBL_iFs6GFnNXtTZnMKlr9UXJw==",
+    "address": {
+      "line1": "gAAAAABnjYyib8HA_uolMejpnYCIdXnooVoYA7fEsWwwrBIUT0Iapkyt_k1JEkwW298Lz9JEvZ5qkSavVbsJ-aeTlfb7-RVE7Q==",
+      "line2": "gAAAAABnjYylRvAcy7I6nlAy_ZPFgVlUJBny-tOeM-r9mGWnfDjC4XsF_48xhLGGsNGm-QUbj3wiIZcS3Du72SICdno9QosTsQ==",
+      "postcode": "gAAAAABnjYysl5wgARFWCb4Sd9Iy3uQ5Xx1N9MmxCsJ3kXXuEah8S3SuZly9JXO30wxUSy6b2kGF49GILFkbqSec0JcwXPqo3A=="
+    },
+    "phone": "gAAAAABnjYyw6t9fMOwtCyT2NRhaymotTXVopg8BtV67_SiElcjDdWIDI5SbLrjo3YlUNn7oWi0eespDawUMRDFjvCF0m35AWA==",
+    "role": "user",
+    "jwt": ""
+  },
+  {
+    "email_address": "gaaaallll@gmail.com",
+    "account_number": 340,
+    "secure_password": "$2b$12$MlK2Z09hXdppyVo/NwsxaOSeJC94FbgXI5lwDouHGVTlkmwuY7pxe",
+    "insecure_password": "",
+    "name": "gAAAAABnjocD40R8InZEC2ZJiDBUXNH1GThsy_fDcYlR7zxnfeYi50IksGHnVkQOVS0dGBJIUfbDSkpyGOO_IN0TqsAJ2NkFxw==",
+    "surname": "gAAAAABnjocFG5yOEDnb1zFRYBEiNwp08hmoEoImhgUQ3_57wJ_YhZoND4k4L-PnUGDuheI5WR6oFjDxgJfuey6OqB7zCf3L0g==",
+    "address": {
+      "line1": "gAAAAABnjocQJ0pPc4EyoIhAG5cdZpxzjyzHKZ0KO1Sti4EWO2miRYiIh1GnqIvfBfaRboWC6x4G7i3THUJe_zCKnaFskp8s8qgporsAnV4ASAjmuDqS3ME=",
+      "line2": "gAAAAABnjocTLFIjvZHwnFMx104P3QGJzQua7VQVv8gCzwVXYJy6pGYoA5pWyt6nUzxaDET8mq2ruOJjYxFYOFITFNFjhXFGew==",
+      "postcode": "gAAAAABnjocbSwy3x6oeDqzFssBtPd5HK5F0Kg7oiKRfhI63isiD7mflITpN33behwT7AjcpsbMXShZ5Ri-NEfmFXXjNfCx_VQ=="
+    },
+    "phone": "gAAAAABnjochwdoh0q2RUnyxD-3yDUdicGHs4maXa6uiVXBL8dX371KPb6qlSqzo9W2ue_bKkSges7UZ4nPRcrR__Sg8Vfs6sA==",
+    "role": "user",
+    "jwt": ""
+  }
+]

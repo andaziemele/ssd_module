@@ -1,0 +1,20 @@
+[
+  {
+    "email": "testemail1@gmail.com",
+    "account_number": "000123",
+    "password": "",
+    "name": "",
+    "surname": "",
+    "address": "",
+    "phone_number": ""
+  },
+  {
+    "email": "testemail2@gmail.com",
+    "account_number": "000456",
+    "password": "",
+    "name": "",
+    "surname": "",
+    "address": "",
+    "phone_number": ""
+  }
+]

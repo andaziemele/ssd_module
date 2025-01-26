@@ -1,0 +1,26 @@
+[
+  {
+    "item_id": "0000001",
+    "brand": "Fern",
+    "name": "Deep Moisture Shampoo",
+    "price": "2.99",
+    "quantity": "20",
+    "category_id": "01"
+  },
+  {
+    "item_id": "0000002",
+    "brand": "Fern",
+    "name": "Deep Moisture Conditioner",
+    "price": "2.99",
+    "quantity": "35",
+    "category_id": "04"
+  },
+  {
+    "item_id": "0000003",
+    "brand": "Fern",
+    "name": "Deep Moisture Mask",
+    "price": "5.99",
+    "quantity": "2",
+    "category_id": "03"
+  }
+]
