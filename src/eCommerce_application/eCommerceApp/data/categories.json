@@ -1,0 +1,55 @@
+[
+  {
+    "parent_category": "Hair Cleansing",
+    "subcategories":
+            [
+              {
+                "id": "01",
+                "category": "Shampoo"
+              },
+              {
+                "id": "02",
+                "category": "Dry Shampoo"
+              }
+            ]
+  },
+  {
+    "parent_category": "Hair Care",
+    "subcategories":
+            [
+              {
+                "id": "03",
+                "category": "Masks"
+              },
+              {
+                "id": "04",
+                "category": "Conditioners"
+              }
+            ]
+  },
+  {
+    "parent_category": "Hair Styling",
+    "subcategories":
+            [
+              {
+                "id": "05",
+                "category": "Hair Sprays"
+              }
+            ]
+  },
+  {
+    "parent_category": "Hair Colouring",
+    "subcategories":
+            [
+              {
+                "id": "06",
+                "category": "Permanent Hair Colour"
+              },
+              {
+                "id": "07",
+                "category": "Toner"
+              }
+            ]
+  }
+
+]

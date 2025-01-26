@@ -1,0 +1,32 @@
+[
+  {
+    "account_number": "000335",
+    "order_id": "0000001",
+    "date": "2024-10-27",
+    "status": "placed",
+    "total": "109.85",
+    "order_items": [
+      {
+        "item_id": "026",
+        "quantity": "10"
+      },
+      {
+        "item_id": "014",
+        "quantity": "5"
+      }
+    ]
+  },
+  {
+    "account_number": "000298",
+    "order_id": "0000002",
+    "date": "2024-07-04",
+    "status": "completed",
+    "total": "131.88",
+    "order_items": [
+      {
+        "item_id": "030",
+        "quantity": "12"
+      }
+    ]
+  }
+]
