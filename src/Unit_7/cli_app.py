@@ -11,7 +11,7 @@ class CLIApp:
         List directory contents.
         :return: results of os.listdir
         """
-        return os.listdir('.')
+        return os.listdir('')
 
     def add_numbers(self, num_input):
         """
